@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Mirza Şakiroğlu 👋
+Mirza Şakiroğlu
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@ name:      Mirza Şakiroğlu
 role:      Junior Computer Engineer
 location:  Salina, Kansas, US
 education: B.S. Computer Engineering @ Istanbul Medeniyet University (2023 - 2027)
-focus:     Full-Stack Dev | Deep Learning Infra | Systems Architecture
+focus:     Network Engineer | Deep Learning Infra | Systems Architecture
 fun_fact:  2nd place nationwide - SiberVatan CTF, Turkey
 ```
 
@@ -51,7 +51,7 @@ $ cat skills.json
   "systems": ["Ubuntu Server Admin", "Deep Learning Env Setup", "Network Engineering"],
   "specializations": ["Computer Vision", "WiFi Signal Propagation", "Indoor Router Optimization"],
   "instrumentation": ["LI-COR Trace Gas Analyzers", "High-Precision Data Acquisition"],
-  "research": ["DOE SOP Authoring", "Technical Protocol Design", "QA/QC"]
+  "research": ["Network Propagation/Signal Strength Optimization", "DOE SOP Authoring", "Technical Protocol Design", "QA/QC"]
 }
 ```
 
