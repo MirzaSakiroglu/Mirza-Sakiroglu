@@ -73,9 +73,8 @@ $ cat publications.txt
 $ ./connect.sh
 ```
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mirzasakiroglu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mirzasakiroglu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0001-6192-5678" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 
