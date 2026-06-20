@@ -78,19 +78,17 @@ $ ./connect.sh
   <a href="mailto:mirzasakiroglu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0001-6192-5678" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
+
 <br>
 
 ```bash
 mirza@dev:~$ ./visitor_count.sh
 ```
- 
-<div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=MirzaSakiroglu&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
- 
-</div>
-<div align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MirzaSakiroglu&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge" alt="Visitor Count" />
+</p>
+
 ```bash
 mirza@dev:~$ echo "Thanks for stopping by — always open to collaborating on research-grade AI infra."
 ```
- 
-</div>
