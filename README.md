@@ -78,18 +78,12 @@ $ ./connect.sh
   <a href="mailto:mirzasakiroglu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0001-6192-5678" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
-
 <br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaSakiroglu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaSakiroglu&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaSakiroglu&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaSakiroglu&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaSakiroglu&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaSakiroglu&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
 <p align="center">
   <em>$ echo "Thanks for stopping by — always open to collaborating on research-grade AI infra."</em>
 </p>
